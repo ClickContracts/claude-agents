@@ -2,16 +2,16 @@
   "name": "ClickContracts-Claude-Agents",
   "description": "Custom agents for Click platform development",
   "version": "1.0.0",
-  "owner": "your-github-username",
-  "author": {
-    "name": "Your Name"
+  "owner": {
+    "name": "Jorge",
+    "github": "your-github-username"
   },
   "plugins": [
     {
-      "name": "Click Development Agents",
+      "name": "click-development-agents",
       "description": "Specialized agents for Click platform",
       "version": "1.0.0",
-      "source": "plugins/click-agents"
+      "source": "./plugins/click-agents"
     }
   ]
 }
