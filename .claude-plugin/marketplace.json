@@ -8,7 +8,7 @@
   "plugins": [
     {
       "id": "click-agents",
-      "name": "Click-Development-Agents",
+      "name": "click-agents",
       "description": "Specialized agents for Click platform",
       "version": "1.0.0",
       "path": "plugins/click-agents"
