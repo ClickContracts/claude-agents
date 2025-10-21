@@ -1,0 +1,8 @@
+{
+  "name": "git-branch-reviewer",
+  "description": "This is a plugin for reviewing changes in a branch using the frontend reviewer plugin",
+  "version": "1.0.0",
+  "author": {
+    "name": "Andres"
+  }
+}

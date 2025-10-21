@@ -13,6 +13,15 @@
       "author": {
         "name": "DevTools Team"
       }
+    },
+    {
+      "name": "git-branch-reviewer",
+      "source": "./plugins/git-branch-reviewer",
+      "description": "Review changes in a branch using the frontend reviewer plugin",
+      "version": "1.0.0",
+      "author": {
+        "name": "Andres"
+      }
     }
   ]
 }
