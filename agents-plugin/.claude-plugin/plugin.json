@@ -1,0 +1,8 @@
+{
+  "name": "agents-plugin",
+  "description": "This is a plugin for managing and utilizing agents within the Claude environment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dev team"
+  }
+}
