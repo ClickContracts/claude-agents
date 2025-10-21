@@ -1,17 +1,18 @@
 {
-  "name": "ClickContracts-Claude-Agents",
-  "description": "Custom agents for Click platform development",
-  "version": "1.0.0",
+  "name": "company-tools",
   "owner": {
-    "name": "Jorge",
-    "github": "your-github-username"
+    "name": "DevTools Team",
+    "email": "devtools@company.com"
   },
   "plugins": [
     {
-      "name": "click-development-agents",
-      "description": "Specialized agents for Click platform",
-      "version": "1.0.0",
-      "source": "./plugins/click-agents"
+      "name": "click-agents",
+      "source": "./plugins/click-agents",
+      "description": "Automatic code formatting on save",
+      "version": "2.1.0",
+      "author": {
+        "name": "DevTools Team"
+      }
     }
   ]
 }
