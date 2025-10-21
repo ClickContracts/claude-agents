@@ -1,0 +1,17 @@
+{
+  "name": "ClickContracts Claude Agents",
+  "description": "Custom agents for Click platform development",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dev team"
+  },
+  "plugins": [
+    {
+      "id": "click-agents",
+      "name": "Click Development Agents",
+      "description": "Specialized agents for Click platform",
+      "version": "1.0.0",
+      "path": "plugins/click-agents"
+    }
+  ]
+}
